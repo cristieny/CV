@@ -1,6 +1,6 @@
 # 👩‍💻 Cristieny Paim
 
-🎯 **Analista de Suporte ERP | Técnica em Automação | Especializanda em Inteligência Artificial**
+🎯 **Analista de Suporte ERP | Técnica em Automação | Faculdade em Inteligência Artificial**
 
 📍 Curitiba - PR, Brasil  
 📧 cristieny@gmail.com  
@@ -12,7 +12,7 @@
 
 ## 👩‍🎓 Formação Acadêmica
 
-🎓 **Bacharelado em Inteligência Artificial** (em andamento)  
+🎓 **Tecnólogo em Inteligência Artificial** (em andamento)  
 🧠 *UniFael*
 
 ---
